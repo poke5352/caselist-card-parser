@@ -1,0 +1,9 @@
+*.docx
+__pycache__/
+shells/
+output/
+*.html
+finalwikidata.jsonl
+output.jsonl
+input/
+*.jsonl
